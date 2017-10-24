@@ -1,0 +1,22 @@
+{
+  "name": "da-vk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akioo/da-vote-kick.git"
+  },
+  "author": "Akioo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akioo/da-vote-kick/issues"
+  },
+  "homepage": "https://github.com/akioo/da-vote-kick#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
