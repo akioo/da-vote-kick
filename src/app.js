@@ -11,4 +11,5 @@ client.on("message", (message) => {
     }
 });
 
-client.login("");
+//APP_BOT_USER TOKEN
+client.login("TOKEN");
